@@ -1,7 +1,5 @@
-
-
-(load "helpers.scm")
-(load "table.scm")
+(load "help.scm")
+(load "table1.scm")
 
 (define (install-simplify-radical-package)
   ;; internal-procedures
